@@ -1,5 +1,5 @@
 # Problem with maven install plugin
-currently, we can install external jar into maven only one file at once which is manaul work.
+currently, we can install only one external jar into maven at once. so it requires manual installation of each jars within folder.
 
 # Advantage of jar-to-mvn-dependency
 we can install all external jars within specified folder into maven at once.
